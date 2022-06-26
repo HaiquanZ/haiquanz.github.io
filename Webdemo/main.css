@@ -1,0 +1,65 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.box {
+    float:right;
+    margin-top: 50px;
+    margin-right: 150px;
+    width: 3%;
+}
+
+.fb:hover {
+    width: 4%;
+}
+
+.ig:hover {
+    width: 4%;
+}
+
+.tiktok:hover {
+    width: 4%;
+}
+ .photo {
+    font-size: 100px;
+ }
+ .photo:hover {
+    color: green;
+ }
+
+ .menu {
+    color: rgb(0,102,204);
+    margin-top: 70px;
+    margin-left: 200px;
+    float:left;
+    margin-right: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+ }
+
+ .about {
+    font-size: 100px;
+ }
+.about:hover {
+    color: green;
+}
+ .home {
+    font-size: 100px;
+ }
+ .home:hover {
+    color: green;
+ }
+.ima {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+html {
+    background-image:
+    url(https://i.pinimg.com/originals/47/c2/47/47c247736d6002dd7f431d3659687434.jpg),
+    url(https://png.pngtree.com/thumb_back/fw800/background/20210313/pngtree-blue-business-background-glowing-speed-image_585954.jpg);
+    
+}
+
